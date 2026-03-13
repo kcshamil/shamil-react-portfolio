@@ -7,7 +7,7 @@ gsap.registerPlugin(ScrollTrigger);
 const eduEntries = [
   {
     num: "01",
-    years: "2019 – 2021",
+    years: "2020 – 2022",
     degree: "Higher Secondary — Science Stream",
     school: "PMSAHSS Elankur — District Malappuram (Kerala)",
     tags: ["Biology", "Physics", "Mathematics", "Chemistry"],
@@ -21,7 +21,7 @@ const eduEntries = [
   },
   {
     num: "02",
-    years: "2021 – 2024",
+    years: "2022 – 2025",
     degree: "Bachelor of Computer Applications (BCA)",
     school: "Al Jamia Arts & Science College (Calicut University), Poopalam, Perinthalmanna",
     tags: ["Data Structures", "DBMS", "Software Engineering", "Networking"],
