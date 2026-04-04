@@ -12,7 +12,7 @@ const projects = [
   {
     image: project1,
     num: "01",
-    title: "PetZtore",
+    title: "PetZone",
     tag: "Full Stack · MERN",
     description: "A full-stack MERN application that allows users to browse pets available for adoption and purchase pet-related products. Includes secure REST APIs, search and filtering, and a smooth admin approval flow.",
     tech: ["MongoDB", "Express", "React", "Node.js"],
