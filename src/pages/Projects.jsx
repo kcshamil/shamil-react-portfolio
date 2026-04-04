@@ -17,7 +17,7 @@ const projects = [
     description: "A full-stack MERN application that allows users to browse pets available for adoption and purchase pet-related products. Includes secure REST APIs, search and filtering, and a smooth admin approval flow.",
     tech: ["MongoDB", "Express", "React", "Node.js"],
     repo: "https://github.com/kcshamil/PetZtore-frontend.git",
-    live: "https://image-gallery-sigma-ochre.vercel.app/",
+    live: "",
   },
   {
     image: project2,
